@@ -1,0 +1,7 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/lani9094/ssrtest.lani9094.odns.fr"
+PassengerBaseURI "/"
+PassengerNodejs "/home/lani9094/nodevenv/ssrtest.lani9094.odns.fr/10/bin/node"
+PassengerAppType node
+PassengerStartupFile server.js
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
